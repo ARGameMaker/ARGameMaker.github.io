@@ -122,5 +122,4 @@
 
 * * *
 [**游戏源代码**](https://github.com/ARGameMaker/pianoGameAR)
-[**游戏设计文档**](https://github.com/ARGameMaker/ARGameMaker.github.io)
 [**游戏展示视频**](https://v.youku.com/v_show/id_XMzY5NDc1ODgyNA==.html?spm=a2h3j.8428770.3416059.1)
