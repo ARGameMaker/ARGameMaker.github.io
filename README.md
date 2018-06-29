@@ -35,7 +35,7 @@
 
 ### 1.7 游戏背景与代入感
 
-暂无
+![Octocat](http://ww2.sinaimg.cn/large/87c01ec7gy1fssa92jyl4j21kw0yo4dq.jpg)
 
 * * *
 
@@ -120,3 +120,4 @@
 完成AR Game：AR Piano的制作
 
 * * *
+[**游戏源代码**](https://github.com/ARGameMaker/pianoGameAR)
