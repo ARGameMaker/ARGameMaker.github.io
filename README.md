@@ -12,6 +12,8 @@
 * 《AR Piano》最初的构思即来自于《节奏大师》，但不同于《节奏大师》，《AR Piano》以AR的形式表现，将有更强大的代入感和真实感，更富有可操作性。
 * AR作为游戏的未来趋势，这款游戏是一次大胆的尝试和探索
 
+![Octocat](http://ww2.sinaimg.cn/large/87c01ec7gy1fssa92jyl4j21kw0yo4dq.jpg)
+
 ### 1.3 目标人群
 
 主要面向80、90、00后，对新事物拥有好奇心，具备一定经济条件与游戏经验的群体
@@ -36,7 +38,7 @@
 
 ### 1.7 游戏背景与代入感
 
-![Octocat](http://ww2.sinaimg.cn/large/87c01ec7gy1fssa92jyl4j21kw0yo4dq.jpg)
+![Octocat](http://wx4.sinaimg.cn/mw690/0060lm7Tly1fst17h5v3xg309w05ku0y.gif)
 
 * * *
 
